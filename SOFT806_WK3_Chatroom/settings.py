@@ -72,7 +72,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'SOFT806_WK3_Chatroom.wsgi.application'
+WSGI_APPLICATION = 'SOFT806_WK3_Chatroom.wsgi.app'
 
 
 # Database

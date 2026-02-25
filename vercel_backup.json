@@ -20,7 +20,5 @@
       "src": "/(.*)",
       "dest": "SOFT806_WK3_Chatroom/wsgi.py"
     }
-  ],
-  "installCommand": "pip install -r requirements.txt",
-  "buildCommand": "python vercel_migrate.py"
+  ]
 }
